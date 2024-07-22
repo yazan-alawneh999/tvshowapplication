@@ -1,0 +1,15 @@
+
+l
+java:S5411Î"(Use a primitive boolean expression here.(¿’Ûá8ç»øšþ1J$aea1b226-4f3b-468d-b7cf-8a0c7f866466
+„
+java:S1874P"<Remove this use of "getSerializableExtra"; it is deprecated.(¤–‰÷ÿÿÿÿÿ8¦¼øšþ1J$1474683d-24df-4c30-86f1-959a58b7def4
+m
+java:S1602h",Remove useless curly braces around statement(²Š§žûÿÿÿÿJ$5adb5b52-8133-4263-8995-0e06eaab6442
+Ž
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(õøô“J$16f03657-6d3f-4347-82d5-c7ab99fd494b
+n
+java:S1602¼",Remove useless curly braces around statement(îä‹²ýÿÿÿÿJ$db046be0-7a93-493b-8818-003fbfa7f977
+z
+java:S2696Ô"6Make the enclosing method "static" or remove this set.(ýË®š8ó¼øšþ1J$ad997923-1592-48eb-8bfe-c6f0f0d53fa8
+z
+java:S2696â"6Make the enclosing method "static" or remove this set.(ýË®š8ø¼øšþ1J$206c8e7e-7f56-47c7-b53a-c30734c44cb1

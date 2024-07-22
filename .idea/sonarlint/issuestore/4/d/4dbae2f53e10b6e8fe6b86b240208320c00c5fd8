@@ -1,0 +1,7 @@
+
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(¤àšõûÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´‹ÿ¤
+C	java:S108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
